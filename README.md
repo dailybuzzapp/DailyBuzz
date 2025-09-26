@@ -23,7 +23,8 @@
 
 
 **Create Message Templates:**  
-![Template Screenshot](./screenshots/template.png)
+<img width="1919" height="983" alt="Template Library Screenshot" src="https://github.com/user-attachments/assets/a2f47426-7258-433e-b708-45a208994f92" />
+
 
 **Message Queue & Scheduling:**  
 ![Queue Screenshot](./screenshots/queue.png)
