@@ -40,7 +40,7 @@
 ## ⚡ How It Works
 
 1. 🔗 Connect WhatsApp via QR code  
-2. 👥 Import contacts from Excel or manually  
+2. 👥 Import contacts from Excel or paste comma separated numbers or add manually  
 3. 📝 Create smart templates with variables  
 4. 📤 Send or schedule messages instantly  
 
