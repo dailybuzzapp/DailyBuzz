@@ -19,7 +19,7 @@
 ## 🎬 Demo / Screenshots
 
 **Dashboard Overview:**  
-![Dashboard Screenshot](./screenshots/dashboard.png)<img width="1893" height="981" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/bf566064-73d1-4fd1-9ab0-3f39ce501bbd" />
+<img width="1893" height="981" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/bf566064-73d1-4fd1-9ab0-3f39ce501bbd" />
 
 
 **Create Message Templates:**  
