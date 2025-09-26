@@ -27,7 +27,8 @@
 
 
 **Message Queue & Scheduling:**  
-![Queue Screenshot](./screenshots/queue.png)
+<img width="1888" height="907" alt="Queue Screenshot" src="https://github.com/user-attachments/assets/c10108fd-7ff6-4204-902e-02ab30f85a1f" />
+
 
 ---
 
