@@ -29,8 +29,6 @@
 **Message Queue & Scheduling:**  
 ![Queue Screenshot](./screenshots/queue.png)
 
-*(Replace with actual screenshots or GIFs showing the app in action)*
-
 ---
 
 ## 📥 Download DailyBuzz
